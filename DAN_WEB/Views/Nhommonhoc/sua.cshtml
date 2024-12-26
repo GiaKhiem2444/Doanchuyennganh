@@ -1,0 +1,94 @@
+﻿@model DAN_WEB.Models.NhomMonHoc
+
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+
+</head>
+<body>
+    @{
+        QLDSVienNhom12Context db = new QLDSVienNhom12Context();
+        SelectList DSHK = new SelectList(db.HocKies.ToList(), "Mahk", "Mahk");
+        SelectList DSQT = new SelectList(db.QuanTris.ToList(), "Maqt", "Maqt");
+        SelectList DSTMH = new SelectList(db.MonHocs.ToList(), "Tenmh", "Tenmh");
+        SelectList DSMH = new SelectList(db.MonHocs.ToList(), "Mamh", "Mamh");
+    }
+
+    <div class="container">
+        <form asp-action="them" method="post">
+            <h2> Cập nhậtnhóm môn học</h2>
+            <div class="form-group">
+                <div asp-validation-summary="ModelOnly" class="text-danger">
+                    <span>Các lỗi cần khắc phục:</span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Manmh" class="form-label"></label>
+                <input asp-for="Manmh" class="form-control" />
+                <span asp-validation-for="Manmh" class="text-danger"></span>
+            </div>
+            <table>
+                <tr>
+                    <th style="width:200px">Tên môn học</th>
+                    <td rowspan="2" id="xemDSTMH"></td>
+                </tr>
+                <tr>
+                    <td><select asp-items="@DSTMH" asp-for="Tenmh" class="form-control"></select></td>
+                </tr>
+            </table>
+
+
+            <table>
+                <tr>
+                    <th style="width:200px">Mã học kỳ</th>
+                    <td rowspan="2" id="xemDSHK"></td>
+                </tr>
+                <tr>
+                    <td><select asp-items="@DSHK" asp-for="Mahk" class="form-control"></select></td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <th style="width:200px">Mã quản trị</th>
+                    <td rowspan="2" id="xemDSHK"></td>
+                </tr>
+                <tr>
+                    <td><select asp-items="@DSQT" asp-for="Maqt" class="form-control"></select></td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <th style="width:200px">Mã môn học</th>
+                    <td rowspan="2" id="xemDSMH"></td>
+                </tr>
+                <tr>
+                    <td><select asp-items="@DSMH" asp-for="Mamh" class="form-control"></select></td>
+                </tr>
+            </table>
+            <div class="form-group mt-3">
+                <input type="submit" class="btn btn-primary" value="Save" /><br /><br />
+            </div>
+            <div>
+                <a asp-action="Index">Quay lại</a>
+            </div>
+
+        </form>
+
+    </div>
+
+
+
+
+</body>
+</html>
+

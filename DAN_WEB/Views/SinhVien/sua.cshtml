@@ -1,0 +1,89 @@
+﻿@model DAN_WEB.Models.SinhVien
+
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    @{
+        List<SelectListItem> gt = new List<SelectListItem>();
+        gt.Add(new SelectListItem("Nam", "true"));
+        gt.Add(new SelectListItem("Nữ", "false"));
+    }
+    
+    <div class="container">
+        <form asp-action="sua" method="post">
+            <div class="form-horizontal">
+                <h2>Sửa thông tin sinh vien</h2>
+                @{
+                    SinhVien sv = ViewBag.sv;
+                }
+                <div class="form-group">
+                   
+                    <input asp-for="Masv" type="hidden" /><br />
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Hosv" class="form-label"></label>
+                  
+                    <input asp-for="Hosv" class="form-control" />
+                    <span asp-validation-for="Hosv" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Tensv" class="form-label"></label>
+                   
+                    <input asp-for="Tensv" class="form-control" />
+                    <span asp-validation-for="Tensv" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                  
+                    <label asp-for="Ngaysinh" class="form-label"></label>
+                    <input asp-for="Ngaysinh" type="date" class="form-control" />
+                    <span asp-validation-for="Ngaysinh" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Diachi" class="form-label"></label>
+                    <input asp-for="Diachi" class="form-control" />
+                    <span asp-validation-for="Diachi" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Sdt" class="form-label"></label>
+                    <input asp-for="Sdt" class="form-control" />
+                    <span asp-validation-for="Sdt" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Gioitinh" class="control-label"></label>
+                    <select asp-for="Gioitinh" asp-items="@gt" class="form-control"></select>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label asp-for="Malop" class="control-label">Tên lớp</label>
+                    <select asp-for="Malop" asp-items="@ViewBag.DSLop" class="form-control"></select>
+                </div>
+                <br />
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Lưu" />
+                </div>
+                <br />
+                <div>
+                  
+                    <a asp-action="Index">Quay lại</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

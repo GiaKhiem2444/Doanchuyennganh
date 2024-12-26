@@ -1,0 +1,82 @@
+﻿@model DAN_WEB.Models.Diem
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        @{
+            if (ViewBag.flagDelete == true)
+            {
+                <h2>Xóa điểm</h2>
+                <h3>Bạn muốn xóa điểm này ?</h3>
+            }
+            else
+            {
+                <h3>Bạn không thể xóa điểm này!</h3>
+            }
+        }
+
+        <form asp-action="xoa" method="post">
+            <div class="form-group">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th><label asp-for="Diemgk" class="form-label"></label> </th>
+                            <th><label asp-for="Diemck" class="form-label"></label> </th>
+                            <th><label asp-for="Hocky" class="form-label"></label> </th>
+                            <th><label asp-for="Masv" class="form-label"></label> </th>
+                            <th><label asp-for="Mamh" class="form-label"></label> </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+
+                            <td>
+                                <label for="Diemgk">@Model.Diemgk</label>
+                            </td>
+                            <td>
+                                <label for="Diemck">@Model.Diemck</label>
+                            </td>
+                            <td>
+                                <label for="Hocky">@Model.Hocky</label>
+                            </td>
+                            <td>
+                                <label for="Mamh">@Model.Masv</label>
+                            </td>
+                            <td>
+                                <label for="Mamh">@Model.Mamh</label>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <br />
+            @{
+                if (ViewBag.flagDelete == true)
+                {
+                    <input type="hidden" name="masv" value="@Model.Masv" />
+                    <input type="hidden" name="mamh" value="@Model.Mamh" />
+                    <div class="form-group">
+                        <input type="submit" value="Xóa" class="btn btn-primary" />
+                    </div>
+                }
+
+            }
+            <br />
+            <div>
+                @*<a href="@Url.Action("index")">Quay lại</a>*@
+                <a asp-action="Index">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

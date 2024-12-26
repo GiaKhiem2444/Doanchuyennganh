@@ -1,0 +1,159 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DAN_WEB
+build_property.RootNamespace = DAN_WEB
+build_property.ProjectDir = C:\Users\doanh\Downloads\QLDSV\DA\DAN_WEB\DAN_WEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\doanh\Downloads\QLDSV\DA\DAN_WEB\DAN_WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Diem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Diem/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbVxzdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Diem/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbVx0aGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Diem/xemmh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbVx4ZW1taC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Diem/xemsv.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbVx4ZW1zdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Diem/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGllbVx4b2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Lop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Lop/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wXHN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Lop/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wXHRoZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Lop/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wXHhvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Monhoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uaG9jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Monhoc/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uaG9jXHN1YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Monhoc/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uaG9jXHRoZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Monhoc/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uaG9jXHhvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Nhommonhoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbW1vbmhvY1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Nhommonhoc/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbW1vbmhvY1xzdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Nhommonhoc/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbW1vbmhvY1x0aGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Nhommonhoc/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbW1vbmhvY1x4b2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/QuanTri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/QuanTri/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaVxzdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/QuanTri/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaVx0aGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/QuanTri/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhblRyaVx4b2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/SinhVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/SinhVien/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cc3VhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/SinhVien/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cdGhlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/SinhVien/xemlop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5ceGVtbG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/SinhVien/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5ceG9hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/doanh/Downloads/QLDSV/DA/DAN_WEB/DAN_WEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,20 @@
+﻿@model DAN_WEB.Models.NhomMonHoc
+
+<h1>Xóa Nhóm Môn Học</h1>
+
+<div class="alert alert-danger">
+    <h4>Bạn có chắc chắn muốn xóa nhóm môn học này?</h4>
+    <p>
+        <strong>Mã nhóm môn học:</strong> @Model.Manmh<br />
+        <strong>Tên môn học:</strong> @Model.Tenmh<br />
+        <strong>Mã học kỳ:</strong> @Model.MahkNavigation?.Mahk<br />
+        <strong>Mã quản trị:</strong> @Model.MaqtNavigation?.Maqt<br />
+        <strong>Mã môn học:</strong> @Model.MamhNavigation?.Mamh<br />
+    </p>
+</div>
+
+<form asp-action="Xoa">
+    <input type="hidden" asp-for="Manmh" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

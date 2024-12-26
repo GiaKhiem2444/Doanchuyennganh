@@ -1,0 +1,62 @@
+﻿@*@model IEnumerable<B1_I_3.Models.Nhasanxuat>*@
+@model DAN_WEB.Models.NhomMonHoc
+@*@{
+    Layout = null;
+}*@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Thông tin quản trị</h2>
+        <p>
+        
+            <a asp-action="them" class="btn btn-primary">Thêm nhóm môn học mới</a>
+        </p>
+     
+        <table class="table table-bordered">
+            <tr>
+                <th><label asp-for="Manmh" class="form-label"></label></th>
+                <th><label asp-for="Tenmh" class="form-label"></label></th>
+                <th><label asp-for="Mahk" class="form-label"></label></th>
+                <th><label asp-for="Maqt" class="form-label"></label></th>
+                <th><label asp-for="Mamh" class="form-label"></label></th>
+
+
+
+
+             
+
+                <th>Tác vụ</th>
+            </tr>
+            @{
+                foreach (var item in ViewBag.nmh)
+                //foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Manmh</td>
+                        <td>@item.Tenmh</td>
+                        <td>@item.Mahk</td>
+                        <td>@item.Maqt</td>
+                        <td>@item.Mamh</td>
+
+                        <td>
+
+                           
+                            <a asp-action="xoa" asp-route-id="@item.Manmh" class="btn btn-danger">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+    @*</div>*@
+</body>
+</html>
+
