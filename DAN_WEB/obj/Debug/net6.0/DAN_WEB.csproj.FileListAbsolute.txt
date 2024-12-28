@@ -254,3 +254,4 @@ C:\Users\doanh\Downloads\QLDSV\DA\DAN_WEB\DAN_WEB\obj\Debug\net6.0\refint\DAN_WE
 C:\Users\doanh\Downloads\QLDSV\DA\DAN_WEB\DAN_WEB\obj\Debug\net6.0\DAN_WEB.pdb
 C:\Users\doanh\Downloads\QLDSV\DA\DAN_WEB\DAN_WEB\obj\Debug\net6.0\DAN_WEB.genruntimeconfig.cache
 C:\Users\doanh\Downloads\QLDSV\DA\DAN_WEB\DAN_WEB\obj\Debug\net6.0\ref\DAN_WEB.dll
+C:\Users\voduy\OneDrive\Desktop\QLDSV\DA\DAN_WEB\DAN_WEB\obj\Debug\net6.0\DAN_WEB.sourcelink.json

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\controllers\\lopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\lopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\controllers\\nhommonhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\nhommonhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\lop\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\lop\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\models\\qldsviennhom12context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\models\\qldsviennhom12context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\diem\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\diem\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\quantricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\sinhvien\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\sinhvien\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,24 +75,8 @@
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\diem\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\models\\qldsviennhom12context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\models\\qldsviennhom12context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\migrations\\20241221174348_nhommonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\migrations\\20241221174348_nhommonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\migrations\\qldsviennhom12contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\migrations\\qldsviennhom12contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\controllers\\nhommonhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\nhommonhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\controllers\\lopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\controllers\\lopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\sinhvien\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,20 +111,12 @@
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\lop\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\lop\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\lop\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\lop\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\lop\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\quantri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\quantri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -157,6 +157,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|c:\\users\\voduy\\onedrive\\desktop\\qldsv\\da\\dan_web\\dan_web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7AABD1-30EC-4658-AA99-5876E23A5F35}|DAN_WEB\\DAN_WEB.csproj|solutionrelative:dan_web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Migrations\\QLDSVienNhom12ContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAN_WEB\\Migrations\\QLDSVienNhom12ContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Migrations\\20241221174348_Nhommonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAN_WEB\\Migrations\\20241221174348_Nhommonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -166,36 +174,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Diem.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Diem.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Models\\Diem.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Diem.cs",
-              "RelativeToolTip": "DAN_WEB\\Models\\Diem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "QLDSVienNhom12Context.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
+              "RelativeToolTip": "DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:18:05.098Z",
+              "WhenOpened": "2024-12-08T07:35:30.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QuanTriConTroller.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\QuanTriConTroller.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\QuanTriConTroller.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\QuanTriConTroller.cs",
-              "RelativeToolTip": "DAN_WEB\\Controllers\\QuanTriConTroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "sua.cshtml",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\sua.cshtml",
+              "RelativeDocumentMoniker": "DAN_WEB\\Views\\Diem\\sua.cshtml",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\sua.cshtml",
+              "RelativeToolTip": "DAN_WEB\\Views\\Diem\\sua.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T05:30:59.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "DAN_WEB\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:24:55.905Z"
+              "WhenOpened": "2024-12-08T07:36:34.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LopController.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\LopController.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\LopController.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\LopController.cs",
+              "RelativeToolTip": "DAN_WEB\\Controllers\\LopController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T00:08:20.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhommonhocController.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\NhommonhocController.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\NhommonhocController.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\NhommonhocController.cs",
+              "RelativeToolTip": "DAN_WEB\\Controllers\\NhommonhocController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:28:00.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Lop.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Models\\Lop.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Lop.cs",
+              "RelativeToolTip": "DAN_WEB\\Models\\Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T00:05:40.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "xoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\xoa.cshtml",
+              "RelativeDocumentMoniker": "DAN_WEB\\Views\\Lop\\xoa.cshtml",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\xoa.cshtml",
+              "RelativeToolTip": "DAN_WEB\\Views\\Lop\\xoa.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:33:08.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "DAN_WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\appsettings.json",
+              "RelativeToolTip": "DAN_WEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T02:00:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Program.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Program.cs",
+              "RelativeToolTip": "DAN_WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:00:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\xoa.cshtml",
+              "RelativeDocumentMoniker": "DAN_WEB\\Views\\Diem\\xoa.cshtml",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\xoa.cshtml",
+              "RelativeToolTip": "DAN_WEB\\Views\\Diem\\xoa.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T06:48:35.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "xoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
+              "RelativeDocumentMoniker": "DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
+              "RelativeToolTip": "DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T09:27:41.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "DiemController.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\DiemController.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\DiemController.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\DiemController.cs",
+              "RelativeToolTip": "DAN_WEB\\Controllers\\DiemController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAMwG0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:03:37.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "them.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\them.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\Diem\\them.cshtml",
@@ -207,59 +339,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DiemController.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\DiemController.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\DiemController.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\DiemController.cs",
-              "RelativeToolTip": "DAN_WEB\\Controllers\\DiemController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAMwG0AAABSAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "QuanTriConTroller.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\QuanTriConTroller.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\QuanTriConTroller.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\QuanTriConTroller.cs",
+              "RelativeToolTip": "DAN_WEB\\Controllers\\QuanTriConTroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:03:37.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:24:55.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "xoa.cshtml",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
-              "RelativeDocumentMoniker": "DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
-              "RelativeToolTip": "DAN_WEB\\Views\\QuanTri\\xoa.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwDUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T09:27:41.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "xoa.cshtml",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\xoa.cshtml",
-              "RelativeDocumentMoniker": "DAN_WEB\\Views\\Diem\\xoa.cshtml",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\xoa.cshtml",
-              "RelativeToolTip": "DAN_WEB\\Views\\Diem\\xoa.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAkwEMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T06:48:35.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "sua.cshtml",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\sua.cshtml",
-              "RelativeDocumentMoniker": "DAN_WEB\\Views\\Diem\\sua.cshtml",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\sua.cshtml",
-              "RelativeToolTip": "DAN_WEB\\Views\\Diem\\sua.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T05:30:59.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Diem\\Index.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\Diem\\Index.cshtml",
@@ -267,36 +359,34 @@
               "RelativeToolTip": "DAN_WEB\\Views\\Diem\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T17:04:40.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:04:40.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Diem.cs",
+              "RelativeDocumentMoniker": "DAN_WEB\\Models\\Diem.cs",
+              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Diem.cs",
+              "RelativeToolTip": "DAN_WEB\\Models\\Diem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:18:05.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "QLDSVienNhom12ContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Migrations\\QLDSVienNhom12ContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DAN_WEB\\Migrations\\QLDSVienNhom12ContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Migrations\\QLDSVienNhom12ContextModelSnapshot.cs",
               "RelativeToolTip": "DAN_WEB\\Migrations\\QLDSVienNhom12ContextModelSnapshot.cs",
-              "ViewState": "AgIAAOIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T05:28:14.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SinhVienController.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\SinhVienController.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\SinhVienController.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\SinhVienController.cs",
-              "RelativeToolTip": "DAN_WEB\\Controllers\\SinhVienController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:36:34.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "xoa.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\SinhVien\\xoa.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\SinhVien\\xoa.cshtml",
@@ -304,12 +394,11 @@
               "RelativeToolTip": "DAN_WEB\\Views\\SinhVien\\xoa.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAmwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T07:40:58.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T07:40:58.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "sua.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\SinhVien\\sua.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\SinhVien\\sua.cshtml",
@@ -321,43 +410,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "QLDSVienNhom12Context.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
-              "RelativeToolTip": "DAN_WEB\\Models\\QLDSVienNhom12Context.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:35:30.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NhommonhocController.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\NhommonhocController.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\NhommonhocController.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\NhommonhocController.cs",
-              "RelativeToolTip": "DAN_WEB\\Controllers\\NhommonhocController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T05:28:00.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "20241221174348_Nhommonhoc.cs",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Migrations\\20241221174348_Nhommonhoc.cs",
               "RelativeDocumentMoniker": "DAN_WEB\\Migrations\\20241221174348_Nhommonhoc.cs",
               "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Migrations\\20241221174348_Nhommonhoc.cs",
               "RelativeToolTip": "DAN_WEB\\Migrations\\20241221174348_Nhommonhoc.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T05:28:28.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DAN_WEB\\Properties\\launchSettings.json",
@@ -369,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "them.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\them.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\Lop\\them.cshtml",
@@ -381,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "them.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\them.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\QuanTri\\them.cshtml",
@@ -393,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "them.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\SinhVien\\them.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\SinhVien\\them.cshtml",
@@ -405,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "sua.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\sua.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\QuanTri\\sua.cshtml",
@@ -417,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\SinhVien.cs",
               "RelativeDocumentMoniker": "DAN_WEB\\Models\\SinhVien.cs",
@@ -429,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\SinhVien\\Index.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\SinhVien\\Index.cshtml",
@@ -441,19 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LopController.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\LopController.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Controllers\\LopController.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Controllers\\LopController.cs",
-              "RelativeToolTip": "DAN_WEB\\Controllers\\LopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:08:20.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "xemlop.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\SinhVien\\xemlop.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\SinhVien\\xemlop.cshtml",
@@ -465,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\Index.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\Lop\\Index.cshtml",
@@ -477,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "sua.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\sua.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\Lop\\sua.cshtml",
@@ -489,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\QuanTri\\Index.cshtml",
               "RelativeDocumentMoniker": "DAN_WEB\\Views\\QuanTri\\Index.cshtml",
@@ -510,18 +562,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T00:05:42.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "xoa.cshtml",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\xoa.cshtml",
-              "RelativeDocumentMoniker": "DAN_WEB\\Views\\Lop\\xoa.cshtml",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Views\\Lop\\xoa.cshtml",
-              "RelativeToolTip": "DAN_WEB\\Views\\Lop\\xoa.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:33:08.556Z"
             },
             {
               "$type": "Document",
@@ -546,18 +586,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T07:39:09.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Lop.cs",
-              "DocumentMoniker": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Lop.cs",
-              "RelativeDocumentMoniker": "DAN_WEB\\Models\\Lop.cs",
-              "ToolTip": "C:\\Users\\voduy\\OneDrive\\Desktop\\QLDSV\\DA\\DAN_WEB\\DAN_WEB\\Models\\Lop.cs",
-              "RelativeToolTip": "DAN_WEB\\Models\\Lop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:05:40.397Z"
             },
             {
               "$type": "Document",

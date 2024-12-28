@@ -71,11 +71,9 @@ namespace DAN_WEB.Controllers
         [HttpGet]
         public ActionResult xoa(string id)
         {
-            var a = db.Lops.Where(k => k.Malop == id).ToList().Count;
-            if (a <= 0)
-                ViewBag.flagDelete = false;
-            else
-                ViewBag.flagDelete = true;
+            int studentCount = db.SinhViens.Where(s => s.Malop == id).Count();
+
+            ViewBag.flagDelete = studentCount == 0; // Chỉ cho phép xóa nếu không còn sinh viên
             Lop n = db.Lops.Find(id);
             ViewBag.lop = n;
             return View(n);
@@ -83,13 +81,19 @@ namespace DAN_WEB.Controllers
         [HttpPost, ActionName("xoa")]
         public ActionResult xoa_Post(string id)
         {
+            int studentCount = db.SinhViens.Where(s => s.Malop == id).Count();
+            if (studentCount > 0)
+            {
+                return Content("Không thể xóa lớp vì vẫn còn sinh viên trong lớp.");
+            }
+
             Lop n = db.Lops.Find(id);
             if (n != null)
             {
                 db.Lops.Remove(n);
                 db.SaveChanges();
             }
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
 
     }
